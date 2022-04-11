@@ -25,7 +25,8 @@ Instructions to run:
 dockerfile-source: 
 
 Description: 
-This folder contains the dockerfile for creating a docker image. Additional files/directories in the same directory as the dockerfile are needed in order to build it: 
+This folder contains the dockerfile for creating a docker image. Additional files/directories in the same directory as the dockerfile are needed in order to build it: (NOTE: the large OSM PBF file has been ommitted from the "userFiles" directory due to its large size, this is not required to test building the file but is to run the testbed itself)
+
 - "ns3"               the ns3-mmwave standalone with the testbed ns3 program 
 - "userFiles"         the Open Street Map file and the coordinates supplied by the user to simulate with (see changes below)
 - "src"               the python files for the testbed
