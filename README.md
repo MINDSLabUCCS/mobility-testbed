@@ -35,7 +35,7 @@
           
 
 
-4. Once you have configured the simulation you want to run and gotten the map and the coordinates you can use the following command to start the docker image; which will enter you into an interactive shell with its own "file system". The -v option is creating a local volume; which links your dockerOutput folder to the /home/testbed/outputMaster directory in the container.
+4. Once you have configured the simulation you want to run and gotten the map and the coordinates you can use the following command to start the docker image; which will enter you into an interactive shell with its own "file system". The `-v` option is creating a local volume; which links your dockerOutput folder to the `/home/testbed/outputMaster` directory in the container.
 
      ```
      docker container run --interactive --tty  -v ..YOUR-PATH../dockerOutput:/home/testbed/outputMaster jcuthbert/mobility-testbed:latest /bin/bash
