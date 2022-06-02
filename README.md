@@ -15,7 +15,7 @@
 3. Locate the `dockerOutput` folder this will be where the simulator outputs; also within it is a `userFiles` folder where the simulator will pull the configuration files. Below is an example of the three input files for the testbed: 
 
 
-          <img src="docs/userFilesExample.png" alt="docs/userFilesExample.png" width="600"/>
+     <img src="docs/userFilesExample.png" alt="docs/userFilesExample.png" width="600"/>
 
      * `config.py` is provided in the userFiles folder and can be edited to change simulation parameters
 
