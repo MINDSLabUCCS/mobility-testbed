@@ -1,0 +1,29 @@
+{
+"ns3Params":{
+	"traceFile":"",
+	"ueCodeBook":0,
+	"enbCodeBook":0,
+	"nodeNum":0,
+	"simTime":0,
+	"bandDiv":0,
+	"frequency":28e9,
+	"totalBandwidth":800e6,
+	"dataRate":"",
+	"mtu":0,
+	"delay":0.0,
+	"enbHeight":0,
+	"type":"", 
+	"material":"",
+	"roomsX":0.0,
+	"roomsY":0.0,
+	"floors":0,
+	"buildingHeight":0.0
+},
+"enbs":{
+	"enbNum":0,
+	"coordinates":[[]]
+},
+"buildings":{ 
+	"coordinates":[[]]
+}	
+}
