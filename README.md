@@ -12,7 +12,7 @@
  
      ```docker pull jcuthbert/mobility-testbed```
 
-3. Locate the `dockerOutput` folder this will be where the simulator outputs; also within it is a `userFiles` folder where the simulator will pull the configuration files. Below is an example of the three input files for the testbed: 
+3. Pull the GitHub repo and locate the `dockerOutput` folder this will be where the simulator outputs; also within it is a `userFiles` folder where the simulator will pull the configuration files. Below is an example of the three input files for the testbed: 
 
 
      <img src="docs/userFilesExample.png" alt="docs/userFilesExample.png" width="600"/>
