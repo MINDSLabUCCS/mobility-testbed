@@ -12,17 +12,30 @@
  
      ```docker pull jcuthbert/mobility-testbed```
 
-3. locate the "dockerOutput" folder this will be where the simulator outputs; also within it is a "userFiles" folder where the simulator will pull the configuration files. Below is an example of the three input files for the testbed: 
+3. Locate the `dockerOutput` folder this will be where the simulator outputs; also within it is a `userFiles` folder where the simulator will pull the configuration files. Below is an example of the three input files for the testbed: 
+
+
+          <img src="docs/userFilesExample.png" alt="docs/userFilesExample.png" width="600"/>
 
      * `config.py` is provided in the userFiles folder and can be edited to change simulation parameters
 
      * `yourMap.osm.pbf` file is an open street map file, information on downloading map segments can be found [here](https://wiki.openstreetmap.org/wiki/Downloading_data)
 
-     * `yourCoordinates.csv` contains lat long coordinates on each line that define areas to cut out of the .osm.pbf file; default format is "`lat long (newline) lat long`" however this can be configured in `config.py`
+     * `yourCoordinates.csv` contains lat long coordinates, two sets of coordinates define areas to cut out of the .osm.pbf file; the default format is below; however this can be configured in `config.py` 
+          ```
+          lat, long
+          lat, long 
+          ```
+          example:
+          ```
+          40.0077,-75.1339
+          29.7863,-95.3889
+          ```
+     
+          
 
-          <img src="docs/userFilesExample.png" alt="docs/userFilesExample.png" width="600"/>
 
-4. once you have configured the simulation you want to run and gotten the map and the coordinates you can use the following command to start the docker image; which will enter you into an interactive shell with its own "file system". The -v option is creating a local volume; which links your dockerOutput folder to the /home/testbed/outputMaster directory in the container.
+4. Once you have configured the simulation you want to run and gotten the map and the coordinates you can use the following command to start the docker image; which will enter you into an interactive shell with its own "file system". The -v option is creating a local volume; which links your dockerOutput folder to the /home/testbed/outputMaster directory in the container.
 
      ```
      docker container run --interactive --tty  -v ..YOUR-PATH../dockerOutput:/home/testbed/outputMaster jcuthbert/mobility-testbed:latest /bin/bash
