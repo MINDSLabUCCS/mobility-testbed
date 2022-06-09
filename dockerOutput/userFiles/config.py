@@ -17,8 +17,8 @@ gen = {
 
 osm = {
 
-    "mapFile": "colorado.osm.pbf",
-    "geoCSV": ("denver.csv"),  # csv file with lat long coordinates
+    "mapFile": "yourMap.osm.pbf",
+    "geoCSV": ("yourCoordinates.csv"),  # csv file with lat long coordinates
     "geoSideLen": 1,  # the side length of a square area centered on the lat long given
     "csvHeader": False,
     "latLongFormat": True  # whether the coordinates in the csv are latLong, false = longLat
