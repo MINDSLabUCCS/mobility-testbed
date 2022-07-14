@@ -1,1116 +1,0 @@
-calling /usr/share/sumo/bin/duarouter -n map_2.net.xml -r map_2trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_2routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (3ms ~= 333.33*RT, ~333.33UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 3 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #261.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_1.net.xml -r map_1trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_1routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 5 BUF 0)                                Step #181.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_3.net.xml -r map_3trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_3routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #115.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_4.net.xml -r map_4trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_4routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 6 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #220.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_5.net.xml -r map_5trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_5routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #341.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_6.net.xml -r map_6trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_6routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 5 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #278.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_8.net.xml -r map_8trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_8routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~8000.00UPS, vehicles TOT 9 ACT 8 BUF 0)                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 5 BUF 0)                                 Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #317.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_7.net.xml -r map_7trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_7routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 3 BUF 0)                                 Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #327.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 8 ACT 0 BUF 0)                    
-calling /usr/share/sumo/bin/duarouter -n map_9.net.xml -r map_9trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_9routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 0 ACT 0 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 4 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #307.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_10.net.xml -r map_10trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_10routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 5 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #387.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_11.net.xml -r map_11trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_11routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 5 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 1 BUF 0)                                 Step #202.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_12.net.xml -r map_12trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_12routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #108.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_14.net.xml -r map_14trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_14routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 9 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #295.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_13.net.xml -r map_13trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_13routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 6 ACT 3 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 6 ACT 2 BUF 0)                                 Step #295.00 (0ms ?*RT. ?UPS, vehicles TOT 6 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_15.net.xml -r map_15trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_15routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #242.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_16.net.xml -r map_16trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_16routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 0 ACT 0 BUF 0)                      Step #68.00 (0ms ?*RT. ?UPS, vehicles TOT 4 ACT 0 BUF 0)                                  
-calling /usr/share/sumo/bin/duarouter -n map_17.net.xml -r map_17trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_17routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #287.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 8 ACT 0 BUF 0)                    
-calling /usr/share/sumo/bin/duarouter -n map_18.net.xml -r map_18trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_18routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 6 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #256.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_19.net.xml -r map_19trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_19routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (1ms ~= 1000.00*RT, ~9000.00UPS, vehicles TOT 10 ACT 9 BUF 0)                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #279.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_20.net.xml -r map_20trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_20routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #308.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_21.net.xml -r map_21trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_21routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #245.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_22.net.xml -r map_22trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_22routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #204.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-task 140.0077,-75.1339: Making directory
-task 140.0077,-75.1339: Extracting OSM
-task 229.7863,-95.3889: Making directory
-task 229.7863,-95.3889: Extracting OSM
-task 229.7863,-95.3889: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_2/map_2.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 229.7863,-95.3889
-task 333.7627,-84.4224: Making directory
-task 333.7627,-84.4224: Extracting OSM
-task 140.0077,-75.1339: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_1/map_1.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 140.0077,-75.1339
-task 438.9047,-77.0163: Making directory
-task 438.9047,-77.0163: Extracting OSM
-task 333.7627,-84.4224: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_3/map_3.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 333.7627,-84.4224
-task 542.3188,-71.0846: Making directory
-task 542.3188,-71.0846: Extracting OSM
-task 438.9047,-77.0163: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_4/map_4.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 438.9047,-77.0163
-task 633.5722,-112.0891: Making directory
-task 633.5722,-112.0891: Extracting OSM
-task 542.3188,-71.0846: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_5/map_5.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 542.3188,-71.0846
-task 747.6211,-122.3244: Making directory
-task 747.6211,-122.3244: Extracting OSM
-task 633.5722,-112.0891: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_6/map_6.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 633.5722,-112.0891
-task 837.7562,-122.4430: Making directory
-task 837.7562,-122.4430: Extracting OSM
-task 837.7562,-122.4430: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_8/map_8.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 837.7562,-122.4430
-task 942.3834,-83.1024: Making directory
-task 942.3834,-83.1024: Extracting OSM
-task 747.6211,-122.3244: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_7/map_7.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 747.6211,-122.3244
-task 1032.8312,-117.1225: Making directory
-task 1032.8312,-117.1225: Extracting OSM
-task 942.3834,-83.1024: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_9/map_9.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 942.3834,-83.1024
-task 1144.9635,-93.2678: Making directory
-task 1144.9635,-93.2678: Extracting OSM
-task 1032.8312,-117.1225: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_10/map_10.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 1032.8312,-117.1225
-task 1227.9942,-82.4451: Making directory
-task 1227.9942,-82.4451: Extracting OSM
-task 1144.9635,-93.2678: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_11/map_11.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 1144.9635,-93.2678
-task 1339.7621,-104.8759: Making directory
-task 1339.7621,-104.8759: Extracting OSM
-task 1227.9942,-82.4451: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_12/map_12.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 1227.9942,-82.4451
-task 1440.6501,-73.9496: Making directory
-task 1440.6501,-73.9496: Extracting OSM
-task 1440.6501,-73.9496: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_14/map_14.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 1440.6501,-73.9496
-task 1540.7498,-73.7976: Making directory
-task 1540.7498,-73.7976: Extracting OSM
-task 1339.7621,-104.8759: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_13/map_13.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)']
-task 1339.7621,-104.8759
-task 1633.9381,-117.3948: Making directory
-task 1633.9381,-117.3948: Extracting OSM
-task 1540.7498,-73.7976: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_15/map_15.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 1540.7498,-73.7976
-task 1739.3051,-76.6144: Making directory
-task 1739.3051,-76.6144: Extracting OSM
-task 1633.9381,-117.3948: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_16/map_16.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)']
-task 1633.9381,-117.3948
-task 1836.2333,-115.2654: Making directory
-task 1836.2333,-115.2654: Extracting OSM
-task 1739.3051,-76.6144: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_17/map_17.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 1739.3051,-76.6144
-task 1945.5372,-122.6500: Making directory
-task 1945.5372,-122.6500: Extracting OSM
-task 1836.2333,-115.2654: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_18/map_18.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 1836.2333,-115.2654
-task 2029.4658,-98.5253: Making directory
-task 2029.4658,-98.5253: Extracting OSM
-task 1945.5372,-122.6500: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_19/map_19.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 1945.5372,-122.6500
-task 2138.6358,-90.2451: Making directory
-task 2138.6358,-90.2451: Extracting OSM
-task 2029.4658,-98.5253: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_20/map_20.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 2029.4658,-98.5253
-task 2238.5667,-121.4683: Making directory
-task 2238.5667,-121.4683: Extracting OSM
-task 2138.6358,-90.2451: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_21/map_21.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 2138.6358,-90.2451
-task 2328.4772,-81.3369: Making directory
-task 2328.4772,-81.3369: Extracting OSM
-task 2238.5667,-121.4683: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_22/map_22.sumocfg
-calling /usr/share/sumo/bin/duarouter -n map_23.net.xml -r map_23trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_23routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #111.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_24.net.xml -r map_24trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_24routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #63.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 0 BUF 0)                                  
-calling /usr/share/sumo/bin/duarouter -n map_25.net.xml -r map_25trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_25routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 3 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #259.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_26.net.xml -r map_26trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_26routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (1ms ~= 1000.00*RT, ~4000.00UPS, vehicles TOT 7 ACT 4 BUF 0)                 Step #161.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_27.net.xml -r map_27trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_27routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 4 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #252.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_28.net.xml -r map_28trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_28routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~6000.00UPS, vehicles TOT 8 ACT 6 BUF 0)                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 3 BUF 0)                                 Step #272.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_29.net.xml -r map_29trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_29routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 5 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #226.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_30.net.xml -r map_30trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_30routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 0 ACT 0 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 2 ACT 2 BUF 0)                                 Step #200.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 2 ACT 1 BUF 0)                 Step #229.00 (0ms ?*RT. ?UPS, vehicles TOT 2 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_31.net.xml -r map_31trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_31routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #102.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_32.net.xml -r map_32trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_32routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #126.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_33.net.xml -r map_33trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_33routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 3 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 3 BUF 0)                                 Step #261.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_34.net.xml -r map_34trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_34routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #71.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 0 BUF 0)                                  
-calling /usr/share/sumo/bin/duarouter -n map_35.net.xml -r map_35trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_35routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 5 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 2 BUF 0)                                 Step #243.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_36.net.xml -r map_36trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_36routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #225.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_37.net.xml -r map_37trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_37routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (3ms ~= 333.33*RT, ~333.33UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 6 BUF 0)                                 Step #200.00 (1ms ~= 1000.00*RT, ~2000.00UPS, vehicles TOT 8 ACT 2 BUF 0)                 Step #218.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_38.net.xml -r map_38trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_38routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #237.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_40.net.xml -r map_40trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_40routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 3 BUF 0)                                 Step #146.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_39.net.xml -r map_39trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_39routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 2 BUF 0)                                 Step #168.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_41.net.xml -r map_41trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_41routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #70.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                  
-calling /usr/share/sumo/bin/duarouter -n map_42.net.xml -r map_42trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_42routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #275.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_43.net.xml -r map_43trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_43routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 7 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #384.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_44.net.xml -r map_44trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_44routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 0 ACT 0 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 1 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 1 BUF 0)                                 Step #262.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 0 BUF 0)                                 
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 2238.5667,-121.4683
-task 2437.3019,-121.8486: Making directory
-task 2437.3019,-121.8486: Extracting OSM
-task 2328.4772,-81.3369: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_23/map_23.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 2328.4772,-81.3369
-task 2541.4767,-81.6804: Making directory
-task 2541.4767,-81.6804: Extracting OSM
-task 2437.3019,-121.8486: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_24/map_24.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)']
-task 2437.3019,-121.8486
-task 2640.4396,-79.9762: Making directory
-task 2640.4396,-79.9762: Extracting OSM
-task 2541.4767,-81.6804: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_25/map_25.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 2541.4767,-81.6804
-task 2730.3004,-97.7522: Making directory
-task 2730.3004,-97.7522: Extracting OSM
-task 2640.4396,-79.9762: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_26/map_26.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 2640.4396,-79.9762
-task 2839.1413,-84.5061: Making directory
-task 2839.1413,-84.5061: Extracting OSM
-task 2730.3004,-97.7522: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_27/map_27.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 2730.3004,-97.7522
-task 2939.1239,-94.5541: Making directory
-task 2939.1239,-94.5541: Extracting OSM
-task 2839.1413,-84.5061: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_28/map_28.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 2839.1413,-84.5061
-task 3040.7834,-73.9662: Making directory
-task 3040.7834,-73.9662: Extracting OSM
-task 2939.1239,-94.5541: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_29/map_29.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 2939.1239,-94.5541
-task 3139.7771,-86.1458: Making directory
-task 3139.7771,-86.1458: Extracting OSM
-task 3040.7834,-73.9662: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_30/map_30.sumocfg
-['node_(0)', 'node_(1)']
-task 3040.7834,-73.9662
-task 3239.9862,-82.9850: Making directory
-task 3239.9862,-82.9850: Extracting OSM
-task 3139.7771,-86.1458: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_31/map_31.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 3139.7771,-86.1458
-task 3335.2080,-80.8304: Making directory
-task 3335.2080,-80.8304: Extracting OSM
-task 3239.9862,-82.9850: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_32/map_32.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 3239.9862,-82.9850
-task 3436.7335,-76.0435: Making directory
-task 3436.7335,-76.0435: Extracting OSM
-task 3335.2080,-80.8304: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_33/map_33.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 3335.2080,-80.8304
-task 3540.8501,-73.8662: Making directory
-task 3540.8501,-73.8662: Extracting OSM
-task 3436.7335,-76.0435: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_34/map_34.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)']
-task 3436.7335,-76.0435
-task 3643.0642,-87.9673: Making directory
-task 3643.0642,-87.9673: Extracting OSM
-task 3540.8501,-73.8662: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_35/map_35.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 3540.8501,-73.8662
-task 3741.8230,-71.4187: Making directory
-task 3741.8230,-71.4187: Extracting OSM
-task 3643.0642,-87.9673: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_36/map_36.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 3643.0642,-87.9673
-task 3830.3322,-81.6749: Making directory
-task 3830.3322,-81.6749: Extracting OSM
-task 3741.8230,-71.4187: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_37/map_37.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 3741.8230,-71.4187
-task 3940.7777,-111.9306: Making directory
-task 3940.7777,-111.9306: Extracting OSM
-task 3830.3322,-81.6749: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_38/map_38.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 3830.3322,-81.6749
-task 4036.1715,-86.7843: Making directory
-task 4036.1715,-86.7843: Extracting OSM
-task 4036.1715,-86.7843: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_40/map_40.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 4036.1715,-86.7843
-task 4137.5295,-77.4756: Making directory
-task 4137.5295,-77.4756: Extracting OSM
-task 3940.7777,-111.9306: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_39/map_39.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 3940.7777,-111.9306
-task 4235.1046,-89.9773: Making directory
-task 4235.1046,-89.9773: Extracting OSM
-task 4137.5295,-77.4756: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_41/map_41.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 4137.5295,-77.4756
-task 4335.8325,-78.6435: Making directory
-task 4335.8325,-78.6435: Extracting OSM
-task 4235.1046,-89.9773: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_42/map_42.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 4235.1046,-89.9773
-task 4430.0687,-89.9288: Making directory
-task 4430.0687,-89.9288: Extracting OSM
-task 4335.8325,-78.6435: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_43/map_43.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 4335.8325,-78.6435
-task 4538.1663,-85.6485: Making directory
-task 4538.1663,-85.6485: Extracting OSM
-task 4430.0687,-89.9288: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_44/map_44.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)']
-task 4430.0687,-89.9288
-task 4635.4676,-97.5136: Making directory
-task 4635.4676,-97.5136: Extracting OSM
-task 4538.1663,-85.6485: Running sumo sim
-calling /usr/share/sumo/bin/duarouter -n map_45.net.xml -r map_45trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_45routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 0 ACT 0 BUF 0)                                   
-calling /usr/share/sumo/bin/duarouter -n map_46.net.xml -r map_46trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_46routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~6000.00UPS, vehicles TOT 10 ACT 6 BUF 0)                Step #199.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_48.net.xml -r map_48trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_48routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 6 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #273.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 10 ACT 0 BUF 0)                   
-calling /usr/share/sumo/bin/duarouter -n map_47.net.xml -r map_47trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_47routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 6 BUF 0)                                 Step #168.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_50.net.xml -r map_50trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_50routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 4 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #207.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_49.net.xml -r map_49trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_49routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #134.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_52.net.xml -r map_52trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_52routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~6000.00UPS, vehicles TOT 9 ACT 6 BUF 0)                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #213.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_51.net.xml -r map_51trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_51routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 5 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #205.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_53.net.xml -r map_53trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_53routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 0 ACT 0 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 1 BUF 0)                                 Step #104.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_54.net.xml -r map_54trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_54routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 3 BUF 0)                                 Step #181.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_55.net.xml -r map_55trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_55routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~4000.00UPS, vehicles TOT 10 ACT 4 BUF 0)                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #371.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_56.net.xml -r map_56trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_56routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 6 BUF 0)                                 Step #180.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_57.net.xml -r map_57trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_57routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 2 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #210.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_58.net.xml -r map_58trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_58routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 9 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #289.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_59.net.xml -r map_59trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_59routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #268.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_60.net.xml -r map_60trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_60routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~2000.00UPS, vehicles TOT 9 ACT 2 BUF 0)                 Step #120.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_61.net.xml -r map_61trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_61routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 3 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #235.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 9 ACT 0 BUF 0)                    
-calling /usr/share/sumo/bin/duarouter -n map_62.net.xml -r map_62trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_62routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (1ms ~= 1000.00*RT, ~5000.00UPS, vehicles TOT 9 ACT 5 BUF 0)                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 1 BUF 0)                                 Step #230.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_63.net.xml -r map_63trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_63routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~5000.00UPS, vehicles TOT 9 ACT 5 BUF 0)                 Step #187.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_64.net.xml -r map_64trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_64routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 6 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 5 BUF 0)                                 Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #381.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_65.net.xml -r map_65trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_65routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 6 BUF 0)                                 Step #165.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_66.net.xml -r map_66trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_66routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 7 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #400.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #500.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #535.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 10 ACT 0 BUF 0)                   
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_45/map_45.sumocfg
-[]
-task 4538.1663,-85.6485
-task 4741.1918,-73.1953: Making directory
-task 4741.1918,-73.1953: Extracting OSM
-task 4635.4676,-97.5136: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_46/map_46.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 4635.4676,-97.5136
-task 4842.9016,-78.8487: Making directory
-task 4842.9016,-78.8487: Extracting OSM
-task 4842.9016,-78.8487: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_48/map_48.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 4842.9016,-78.8487
-task 4932.7811,-97.3473: Making directory
-task 4932.7811,-97.3473: Extracting OSM
-task 4741.1918,-73.1953: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_47/map_47.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 4741.1918,-73.1953
-task 5041.7661,-72.6834: Making directory
-task 5041.7661,-72.6834: Extracting OSM
-task 5041.7661,-72.6834: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_50/map_50.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 5041.7661,-72.6834
-task 5132.1545,-110.8782: Making directory
-task 5132.1545,-110.8782: Extracting OSM
-task 4932.7811,-97.3473: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_49/map_49.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 4932.7811,-97.3473
-task 5241.2627,-96.0522: Making directory
-task 5241.2627,-96.0522: Extracting OSM
-task 5241.2627,-96.0522: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_52/map_52.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 5241.2627,-96.0522
-task 5331.8479,-106.4309: Making directory
-task 5331.8479,-106.4309: Extracting OSM
-task 5132.1545,-110.8782: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_51/map_51.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 5132.1545,-110.8782
-task 5421.3294,-157.8460: Making directory
-task 5421.3294,-157.8460: Extracting OSM
-task 5331.8479,-106.4309: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_53/map_53.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)']
-task 5331.8479,-106.4309
-task 5526.2273,-98.2471: Making directory
-task 5526.2273,-98.2471: Extracting OSM
-task 5421.3294,-157.8460: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_54/map_54.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 5421.3294,-157.8460
-task 5635.1053,-106.6464: Making directory
-task 5635.1053,-106.6464: Extracting OSM
-task 5526.2273,-98.2471: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_55/map_55.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 5526.2273,-98.2471
-task 5733.5277,-86.7987: Making directory
-task 5733.5277,-86.7987: Extracting OSM
-task 5635.1053,-106.6464: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_56/map_56.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 5635.1053,-106.6464
-task 5827.3386,-82.5431: Making directory
-task 5827.3386,-82.5431: Extracting OSM
-task 5733.5277,-86.7987: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_57/map_57.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 5733.5277,-86.7987
-task 5939.7797,-84.1998: Making directory
-task 5939.7797,-84.1998: Extracting OSM
-task 5827.3386,-82.5431: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_58/map_58.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 5827.3386,-82.5431
-task 6043.1680,-77.6162: Making directory
-task 6043.1680,-77.6162: Extracting OSM
-task 5939.7797,-84.1998: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_59/map_59.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 5939.7797,-84.1998
-task 6136.7831,-119.7941: Making directory
-task 6136.7831,-119.7941: Extracting OSM
-task 6043.1680,-77.6162: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_60/map_60.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 6043.1680,-77.6162
-task 6240.5961,-75.4756: Making directory
-task 6240.5961,-75.4756: Extracting OSM
-task 6136.7831,-119.7941: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_61/map_61.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 6136.7831,-119.7941
-task 6336.1284,-95.9042: Making directory
-task 6336.1284,-95.9042: Extracting OSM
-task 6240.5961,-75.4756: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_62/map_62.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 6240.5961,-75.4756
-task 6426.6446,-81.9956: Making directory
-task 6426.6446,-81.9956: Extracting OSM
-task 6336.1284,-95.9042: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_63/map_63.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 6336.1284,-95.9042
-task 6537.9722,-122.0016: Making directory
-task 6537.9722,-122.0016: Extracting OSM
-task 6426.6446,-81.9956: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_64/map_64.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 6426.6446,-81.9956
-task 6638.8674,-104.7606: Making directory
-task 6638.8674,-104.7606: Extracting OSM
-task 6537.9722,-122.0016: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_65/map_65.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 6537.9722,-122.0016
-task 6732.8153,-79.9628: Making directory
-task 6732.8153,-79.9628: Extracting OSM
-task 6638.8674,-104.7606: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_66/map_66.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 6638.8674,-104.7606
-task 6842.1155,-72.5395: Making directory
-task 6842.1155,-72.5395: Extracting OSM
-task 6732.8153,-79.9628: Running sumo sim
-calling /usr/share/sumo/bin/duarouter -n map_67.net.xml -r map_67trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_67routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #80.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_68.net.xml -r map_68trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_68routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 4 ACT 1 BUF 0)                                 Step #130.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 4 ACT 0 BUF 0)                    
-calling /usr/share/sumo/bin/duarouter -n map_70.net.xml -r map_70trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_70routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #181.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_69.net.xml -r map_69trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_69routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 4 BUF 0)                                 Step #145.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_71.net.xml -r map_71trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_71routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (1ms ~= 1000.00*RT, ~5000.00UPS, vehicles TOT 10 ACT 5 BUF 0)                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #251.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_72.net.xml -r map_72trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_72routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 6 BUF 0)                                Step #176.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_73.net.xml -r map_73trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_73routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #95.00 (0ms ?*RT. ?UPS, vehicles TOT 4 ACT 0 BUF 0)                                  
-calling /usr/share/sumo/bin/duarouter -n map_74.net.xml -r map_74trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_74routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 6 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #252.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_75.net.xml -r map_75trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_75routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #99.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_76.net.xml -r map_76trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_76routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~7000.00UPS, vehicles TOT 9 ACT 7 BUF 0)                 Step #200.00 (1ms ~= 1000.00*RT, ~2000.00UPS, vehicles TOT 9 ACT 2 BUF 0)                 Step #261.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_78.net.xml -r map_78trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_78routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 10 BUF 0)                               Step #200.00 (1ms ~= 1000.00*RT, ~9000.00UPS, vehicles TOT 10 ACT 9 BUF 0)                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 8 BUF 0)                                Step #400.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #500.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #600.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #651.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_77.net.xml -r map_77trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_77routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 5 BUF 0)                                 Step #191.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_79.net.xml -r map_79trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_79routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 6 BUF 0)                                Step #200.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 10 ACT 1 BUF 0)                Step #213.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_80.net.xml -r map_80trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_80routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 4 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 1 BUF 0)                                 Step #210.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_81.net.xml -r map_81trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_81routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~7000.00UPS, vehicles TOT 10 ACT 7 BUF 0)                Step #178.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_82.net.xml -r map_82trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_82routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (2ms ~= 500.00*RT, ~500.00UPS, vehicles TOT 1 ACT 1 BUF 0)                     Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #129.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_83.net.xml -r map_83trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_83routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 7 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #310.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_84.net.xml -r map_84trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_84routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~5000.00UPS, vehicles TOT 10 ACT 5 BUF 0)                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #308.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_85.net.xml -r map_85trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_85routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 5 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 2 BUF 0)                                 Step #271.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 9 ACT 0 BUF 0)                    
-calling /usr/share/sumo/bin/duarouter -n map_86.net.xml -r map_86trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_86routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 3 BUF 0)                                Step #171.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_87.net.xml -r map_87trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_87routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 5 BUF 0)                                Step #175.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_88.net.xml -r map_88trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_88routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #182.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_67/map_67.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 6732.8153,-79.9628
-task 6942.9620,-85.6562: Making directory
-task 6942.9620,-85.6562: Extracting OSM
-task 6842.1155,-72.5395: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_68/map_68.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)']
-task 6842.1155,-72.5395
-task 7033.6095,-117.6550: Making directory
-task 7033.6095,-117.6550: Extracting OSM
-task 7033.6095,-117.6550: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_70/map_70.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7033.6095,-117.6550
-task 7142.6664,-73.7987: Making directory
-task 7142.6664,-73.7987: Extracting OSM
-task 6942.9620,-85.6562: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_69/map_69.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 6942.9620,-85.6562
-task 7235.9692,-83.9496: Making directory
-task 7235.9692,-83.9496: Extracting OSM
-task 7142.6664,-73.7987: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_71/map_71.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7142.6664,-73.7987
-task 7335.3529,-119.0359: Making directory
-task 7335.3529,-119.0359: Extracting OSM
-task 7235.9692,-83.9496: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_72/map_72.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7235.9692,-83.9496
-task 7441.2278,-111.9682: Making directory
-task 7441.2278,-111.9682: Extracting OSM
-task 7335.3529,-119.0359: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_73/map_73.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)']
-task 7335.3529,-119.0359
-task 7530.4418,-91.1310: Making directory
-task 7530.4418,-91.1310: Extracting OSM
-task 7441.2278,-111.9682: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_74/map_74.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7441.2278,-111.9682
-task 7641.0798,-81.5219: Making directory
-task 7641.0798,-81.5219: Extracting OSM
-task 7530.4418,-91.1310: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_75/map_75.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7530.4418,-91.1310
-task 7741.3112,-72.9246: Making directory
-task 7741.3112,-72.9246: Extracting OSM
-task 7641.0798,-81.5219: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_76/map_76.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 7641.0798,-81.5219
-task 7834.0376,-80.9037: Making directory
-task 7834.0376,-80.9037: Extracting OSM
-task 7834.0376,-80.9037: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_78/map_78.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7834.0376,-80.9037
-task 7933.4017,-111.7180: Making directory
-task 7933.4017,-111.7180: Extracting OSM
-task 7741.3112,-72.9246: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_77/map_77.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 7741.3112,-72.9246
-task 8027.9550,-80.6627: Making directory
-task 8027.9550,-80.6627: Extracting OSM
-task 7933.4017,-111.7180: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_79/map_79.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 7933.4017,-111.7180
-task 8140.2457,-111.6457: Making directory
-task 8140.2457,-111.6457: Extracting OSM
-task 8027.9550,-80.6627: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_80/map_80.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 8027.9550,-80.6627
-task 8242.2705,-71.8079: Making directory
-task 8242.2705,-71.8079: Extracting OSM
-task 8140.2457,-111.6457: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_81/map_81.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8140.2457,-111.6457
-task 8333.5720,-117.1909: Making directory
-task 8333.5720,-117.1909: Extracting OSM
-task 8242.2705,-71.8079: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_82/map_82.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8242.2705,-71.8079
-task 8434.8353,-82.3647: Making directory
-task 8434.8353,-82.3647: Extracting OSM
-task 8333.5720,-117.1909: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_83/map_83.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8333.5720,-117.1909
-task 8537.6896,-97.3442: Making directory
-task 8537.6896,-97.3442: Extracting OSM
-task 8434.8353,-82.3647: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_84/map_84.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8434.8353,-82.3647
-task 8641.6639,-83.5822: Making directory
-task 8641.6639,-83.5822: Extracting OSM
-task 8537.6896,-97.3442: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_85/map_85.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 8537.6896,-97.3442
-task 8740.5834,-74.1496: Making directory
-task 8740.5834,-74.1496: Extracting OSM
-task 8641.6639,-83.5822: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_86/map_86.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8641.6639,-83.5822
-task 8841.5725,-93.6105: Making directory
-task 8841.5725,-93.6105: Extracting OSM
-task 8740.5834,-74.1496: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_87/map_87.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8740.5834,-74.1496
-task 8933.7981,-118.1675: Making directory
-task 8933.7981,-118.1675: Extracting OSM
-task 8841.5725,-93.6105: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_88/map_88.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8841.5725,-93.6105
-task 9027.2796,-80.3883: Making directory
-calling /usr/share/sumo/bin/duarouter -n map_89.net.xml -r map_89trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_89routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 7 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #257.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 10 ACT 0 BUF 0)                   
-calling /usr/share/sumo/bin/duarouter -n map_90.net.xml -r map_90trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_90routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (1ms ~= 1000.00*RT, ~3000.00UPS, vehicles TOT 7 ACT 3 BUF 0)                 Step #136.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_91.net.xml -r map_91trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_91routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 4 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #232.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_92.net.xml -r map_92trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_92routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #76.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                 
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-calling /usr/share/sumo/bin/duarouter -n map_93.net.xml -r map_93trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_93routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~0.00UPS, vehicles TOT 0 ACT 0 BUF 0)                      Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 3 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 1 BUF 0)                                 Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 1 BUF 0)                                 Step #400.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 1 BUF 0)                                 Step #423.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_94.net.xml -r map_94trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_94routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 2 BUF 0)                                 Step #184.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_95.net.xml -r map_95trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_95routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #94.00 (0ms ?*RT. ?UPS, vehicles TOT 4 ACT 0 BUF 0)                                  
-calling /usr/share/sumo/bin/duarouter -n map_96.net.xml -r map_96trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_96routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 3 BUF 0)                                Step #150.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_97.net.xml -r map_97trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_97routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 7 BUF 0)                                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #207.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_98.net.xml -r map_98trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_98routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 7 BUF 0)                                Step #200.00 (1ms ~= 1000.00*RT, ~2000.00UPS, vehicles TOT 10 ACT 2 BUF 0)                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #306.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_99.net.xml -r map_99trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_99routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 3 BUF 0)                                 Step #138.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_100.net.xml -r map_100trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_100routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 1 BUF 0)                                 Step #126.00 (0ms ?*RT. ?UPS, vehicles TOT 8 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_101.net.xml -r map_101trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_101routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 0 ACT 0 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 1 BUF 0)                                 Step #144.00 (0ms ?*RT. ?UPS, vehicles TOT 5 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_102.net.xml -r map_102trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_102routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #199.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_103.net.xml -r map_103trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_103routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~7000.00UPS, vehicles TOT 10 ACT 7 BUF 0)                Step #185.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_104.net.xml -r map_104trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_104routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 1 ACT 1 BUF 0)                   Step #100.00 (1ms ~= 1000.00*RT, ~7000.00UPS, vehicles TOT 10 ACT 7 BUF 0)                Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 2 BUF 0)                                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #400.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #412.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-calling /usr/share/sumo/bin/duarouter -n map_105.net.xml -r map_105trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_105routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 5 BUF 0)                                 Step #200.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 2 BUF 0)                                 Step #289.00 (0ms ?*RT. ?UPS, vehicles TOT 7 ACT 0 BUF 0)                                 
-calling /usr/share/sumo/bin/duarouter -n map_106.net.xml -r map_106trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_106routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (1ms ~= 1000.00*RT, ~4000.00UPS, vehicles TOT 10 ACT 4 BUF 0)                Step #200.00 (1ms ~= 1000.00*RT, ~1000.00UPS, vehicles TOT 10 ACT 1 BUF 0)                Step #300.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 1 BUF 0)                                Step #353.00 (0ms ?*RT. ?UPS, vehicles TOT 10 ACT 0 BUF 0)                                
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-One or more coordinates are negative, some applications might need strictly positive values. To avoid this use the option --shift.
-Loading configuration ... done.
-Loading configuration ... done.
-calling /usr/share/sumo/bin/duarouter -n map_107.net.xml -r map_107trips.xml --ignore-errors --begin 0 --end 10 --no-step-log --no-warnings -o map_107routes.rou.xml
-Success.
-Loading configuration ... done.
-Step #0.00 (0ms ?*RT. ?UPS, vehicles TOT 1 ACT 1 BUF 0)                                   Step #100.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 3 BUF 0)                                 Step #142.00 (0ms ?*RT. ?UPS, vehicles TOT 9 ACT 0 BUF 0)                                 
-Loading configuration ... done.
-Loading configuration ... done.
-task 9027.2796,-80.3883: Extracting OSM
-task 8933.7981,-118.1675: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_89/map_89.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 8933.7981,-118.1675
-task 9133.2176,-97.1419: Making directory
-task 9133.2176,-97.1419: Extracting OSM
-task 9027.2796,-80.3883: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_90/map_90.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 9027.2796,-80.3883
-task 9243.0826,-89.3931: Making directory
-task 9243.0826,-89.3931: Extracting OSM
-task 9133.2176,-97.1419: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_91/map_91.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 9133.2176,-97.1419
-task 9339.5497,-119.8483: Making directory
-task 9339.5497,-119.8483: Extracting OSM
-task 9243.0826,-89.3931: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_92/map_92.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 9243.0826,-89.3931
-task 9440.2752,-76.8843: Making directory
-task 9440.2752,-76.8843: Extracting OSM
-task 9339.5497,-119.8483: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_93/map_93.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 9339.5497,-119.8483
-task 9534.7256,-92.3576: Making directory
-task 9534.7256,-92.3576: Extracting OSM
-task 9440.2752,-76.8843: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_94/map_94.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 9440.2752,-76.8843
-task 9637.7903,-122.2165: Making directory
-task 9637.7903,-122.2165: Extracting OSM
-task 9534.7256,-92.3576: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_95/map_95.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)']
-task 9534.7256,-92.3576
-task 9735.9794,-78.9031: Making directory
-task 9735.9794,-78.9031: Extracting OSM
-task 9637.7903,-122.2165: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_96/map_96.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 9637.7903,-122.2165
-task 9836.1029,-80.2611: Making directory
-task 9836.1029,-80.2611: Extracting OSM
-task 9735.9794,-78.9031: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_97/map_97.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 9735.9794,-78.9031
-task 9926.3559,-81.7861: Making directory
-task 9926.3559,-81.7861: Extracting OSM
-task 9836.1029,-80.2611: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_98/map_98.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 9836.1029,-80.2611
-task 10033.7346,-116.2346: Making directory
-task 10033.7346,-116.2346: Extracting OSM
-task 9926.3559,-81.7861: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_99/map_99.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 9926.3559,-81.7861
-task 10129.5392,-81.2460: Making directory
-task 10129.5392,-81.2460: Extracting OSM
-task 10033.7346,-116.2346: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_100/map_100.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)']
-task 10033.7346,-116.2346
-task 10235.0657,-85.2488: Making directory
-task 10235.0657,-85.2488: Extracting OSM
-task 10129.5392,-81.2460: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_101/map_101.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)']
-task 10129.5392,-81.2460
-task 10347.6671,-117.4330: Making directory
-task 10347.6671,-117.4330: Extracting OSM
-task 10235.0657,-85.2488: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_102/map_102.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 10235.0657,-85.2488
-task 10443.0409,-76.1438: Making directory
-task 10443.0409,-76.1438: Extracting OSM
-task 10347.6671,-117.4330: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_103/map_103.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 10347.6671,-117.4330
-task 10540.0421,-76.3012: Making directory
-task 10540.0421,-76.3012: Extracting OSM
-task 10443.0409,-76.1438: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_104/map_104.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 10443.0409,-76.1438
-task 10632.6998,-97.1250: Making directory
-task 10632.6998,-97.1250: Extracting OSM
-task 10540.0421,-76.3012: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_105/map_105.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)']
-task 10540.0421,-76.3012
-task 10737.9765,-121.3109: Making directory
-task 10737.9765,-121.3109: Extracting OSM
-task 10632.6998,-97.1250: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_106/map_106.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)', 'node_(9)']
-task 10632.6998,-97.1250
-task 10841.6949,-73.9210: Making directory
-task 10841.6949,-73.9210: Extracting OSM
-task 10841.6949,-73.9210: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_108/map_108.sumocfg
-task 10933.3645,-82.0708: Making directory
-task 10933.3645,-82.0708: Extracting OSM
-task 10933.3645,-82.0708: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_109/map_109.sumocfg
-task 11043.6007,-116.2312: Making directory
-task 11043.6007,-116.2312: Extracting OSM
-task 10737.9765,-121.3109: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_107/map_107.sumocfg
-['node_(0)', 'node_(1)', 'node_(2)', 'node_(3)', 'node_(4)', 'node_(5)', 'node_(6)', 'node_(7)', 'node_(8)']
-task 10737.9765,-121.3109
-task 11134.1963,-119.1815: Making directory
-task 11134.1963,-119.1815: Extracting OSM
-task 11043.6007,-116.2312: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_110/map_110.sumocfg
-task 11241.4044,-75.6649: Making directory
-task 11241.4044,-75.6649: Extracting OSM
-task 11241.4044,-75.6649: Running sumo sim
-sumo config created: /home/jason/testbedMultiproc/outputMaster/output_20-10-26_on_19.12.2021/map_112/map_112.sumocfg
-task 11337.6374,-121.0028: Making directory
-task 11337.6374,-121.0028: Extracting OSM
